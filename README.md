@@ -22,5 +22,5 @@ Power BI, Python, SQL, Excel, Selenium, HTML, CSS...
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://richardparado.github.io/personal_website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardparado/)
-[![Website](https://img.shields.io/badge/Portfolio_website-000?style=for-the-badge)](https://richardparado.github.io/personal_website/)
+
 
