@@ -1,6 +1,6 @@
 # Hi, I'm Richard! 👋
 
-[LinkedIn Cover Photo](https://media.licdn.com/dms/image/D4D16AQGomEPNMnpkcw/profile-displaybackgroundimage-shrink_350_1400/0/1683737899116?e=1690416000&v=beta&t=LjnzTFspNPaW0TwnOWxXZ3PoxMPuQxh4pUDTBzibDTc)
+![LinkedIn Cover Photo](https://media.licdn.com/dms/image/D4D16AQGomEPNMnpkcw/profile-displaybackgroundimage-shrink_350_1400/0/1683737899116?e=1690416000&v=beta&t=LjnzTFspNPaW0TwnOWxXZ3PoxMPuQxh4pUDTBzibDTc)
 
 ## 🚀 About Me
 I'm a data analyst specialised in data visualisation and data analysis in Power BI and Python. I love exploring data and finding patterns and trends to help make business decisions. With a keen eye for detail and curiousity, I excel at turning raw data into actionable insights.
