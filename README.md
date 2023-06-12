@@ -12,9 +12,9 @@ Power BI, Python, SQL, Excel, Selenium, HTML, CSS...
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Personal Financial Dashboard in Power BI.
+👩‍💻 I'm currently working on Personal Financial Dashboard in Power BI and Sales Insights in Power BI.
 
-🧠 I'm currently learning HTML, CSS, Bootstrap and JS.
+🧠 I'm currently learning Python for development.
 
 
 
