@@ -18,6 +18,7 @@ Hi, I'm Richard! 👋 I'm a data analyst specializing in data visualization and 
 👩‍💻 Currently working on:
 1. [Personal Financial Dashboard](https://github.com/RichardParado/personal_finance_dashboard_powerbi): Building an interactive dashboard to manage personal finances.
 2. [ChatGPT ChatBot](https://github.com/RichardParado/ChatGPT_ChatBot_streamlit): Created a ChatBot using Streamlit to help users make travel plans.
+3. [Revenue Insights Dashboard](https://github.com/RichardParado/revenue_insights_dashboard_powerbi): Building a dashboard to analyze the revenue in the hospitality domain.
 
 ## Learning
 🧠 Currently learning:
