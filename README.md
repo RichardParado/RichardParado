@@ -4,7 +4,9 @@
 
 ## About Me
 Hi, I'm Richard! 👋 I'm a data analyst specializing in data visualization and data analysis using Power BI and Python. I'm passionate about exploring data, discovering patterns, and using insights to drive business decisions. With a keen eye for detail and curiosity, I excel at transforming raw data into actionable insights.
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardParado)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 - Power BI
 - Python
