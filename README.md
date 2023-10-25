@@ -1,6 +1,6 @@
 # Data Analyst | Data Visualization | Power BI
 
-![LinkedIn Cover Photo](https://media.licdn.com/dms/image/D4D16AQGomEPNMnpkcw/profile-displaybackgroundimage-shrink_350_1400/0/1683737899116?e=1695859200&v=beta&t=CmQfhVlqd6yeBazRrSzNz_piopl_u585u2YaTrNIVzc)
+![LinkedIn Cover Photo](https://github.com/RichardParado/personal_website/blob/main/assets/images/LinkedIn%20Banner.png)
 
 ## About Me
 Hi, I'm Richard! 👋 I'm a data analyst specializing in data visualization and data analysis using Power BI and Python. I'm passionate about exploring data, discovering patterns, and using insights to drive business decisions. With a keen eye for detail and curiosity, I excel at transforming raw data into actionable insights.
