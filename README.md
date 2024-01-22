@@ -18,7 +18,7 @@ Hi, I'm Richard! 👋 I'm a data analyst specializing in data visualization and 
 
 ## Projects
 👩‍💻 Currently working on:
-1. [Personal Financial Dashboard](https://github.com/RichardParado/personal_finance_dashboard_powerbi): Building an interactive dashboard to manage personal finances.
+1. [Sales Insights Dashboard](https://github.com/RichardParado/sales_insights_dashboard_powerbi): Project provided by Codebasics to analyze the sales of a hardware store.
 2. [Revenue Insights Dashboard](https://github.com/RichardParado/revenue_insights_dashboard_powerbi): Building a dashboard to analyze the revenue in the hospitality domain.
 
 ## Learning
