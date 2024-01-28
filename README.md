@@ -20,6 +20,7 @@ Hi, I'm Richard! 👋 I'm a data analyst specializing in data visualization and 
 👩‍💻 Currently working on:
 1. [Sales Insights Dashboard](https://github.com/RichardParado/sales_insights_dashboard_powerbi): Project provided by Codebasics to analyze the sales of a hardware store.
 2. [Revenue Insights Dashboard](https://github.com/RichardParado/revenue_insights_dashboard_powerbi): Building a dashboard to analyze the revenue in the hospitality domain.
+3. [Cricket T20 Best XI Dashboard](https://github.com/RichardParado/cricket_T20_bestXI_dashbaord_powerbi): Building a dashboard to find the best XI using ICC T20 Cricket World Cup 2022 data.
 
 ## Learning
 🧠 Currently learning:
