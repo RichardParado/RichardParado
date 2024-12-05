@@ -19,7 +19,8 @@ I'm a data analyst and Python developer passionate about solving complex problem
 - Selenium
 
 ### 📂 Projects
-
+- Provide Insights to the Revenue Team in the Hospitality Domain
+- Internal Tool for Business
 
 ### 📖 Currently Learning
 
