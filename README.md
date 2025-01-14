@@ -21,6 +21,7 @@ I'm a data analyst and Python developer passionate about solving complex problem
 ### 📂 Projects
 - Provide Insights to the Revenue Team in the Hospitality Domain
 - Internal Tool for Business
+- Expense Tracker
 
 ### 📖 Currently Learning
 
