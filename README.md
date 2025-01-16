@@ -24,7 +24,7 @@ I'm a data analyst and Python developer passionate about solving complex problem
 - Expense Tracker
 
 ### 📖 Currently Learning
-
+- 100 Days of Code: The Complete Python Pro Bootcamp
 
 
 
