@@ -2,7 +2,7 @@
 
 ![LinkedIn Cover Photo](https://github.com/RichardParado/personal_website/blob/main/assets/images/linkedin-banner.png)
 
-I'm a data analyst and Python developer passionate about solving complex problems and creating efficient, data-driven solutions. I love building dashboards in Power BI and developing web apps in Django.
+I'm a Data Analyst and Python Enthusiast passionate about solving complex problems and creating efficient, data-driven solutions. I love building dashboards in Power BI and developing web apps in Django.
 
 ### 🌟 What I Do
 - **Data Analysis**: Transforming raw data into actionable insights.
