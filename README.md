@@ -20,7 +20,7 @@ I'm a Data Analyst and Python Enthusiast passionate about solving complex proble
 
 ### 📂 Projects
 - Internal Tool for Business
-- Expense Tracker
+- Revenue Insights in Hospitality Domain
 
 ### 📖 Currently Learning
 - 100 Days of Code: The Complete Python Pro Bootcamp
