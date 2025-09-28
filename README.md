@@ -14,13 +14,6 @@ I'm a Data Analyst and Python Enthusiast passionate about solving complex proble
 - Microsoft Power BI
 - SQL
 - Microsoft Excel
-- HTML, CSS, Bootstrap
-- Django, Flask Frameworks
-- Selenium
-
-### 📂 Projects
-- Internal Tool for Business
-- Revenue Insights in Hospitality Domain
 
 ### 📖 Currently Learning
 - 100 Days of Code: The Complete Python Pro Bootcamp
