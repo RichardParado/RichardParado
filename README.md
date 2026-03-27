@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Richard Parado  
 ### Data Analyst | Python Developer | Power BI Specialist
 
+I’m a **Data Analyst** who builds **automated data workflows and interactive Power BI dashboards** to help businesses make faster, data-driven decisions.
 
-I’m a **Data Analyst and Python Enthusiast** who builds **Power BI Reports, Data Analysis, and AI** to turn raw data into business insights.
+I specialize in transforming raw data into **actionable insights, performance tracking systems, and reporting automations**.
 
 
 ## 🧰 Tech Stack
